@@ -4,7 +4,7 @@ This repository implements M31 and BabyBear field arithmetic in Bitcoin Script.
 
 ### Performance
 
-In the current implementation, M31 and BabyBear has equivalent performance for the standalone field. 
+In the current implementation, M31 and BabyBear have equivalent performance for the standalone field. 
 The overhead for field extension is slightly different due to the extension polynomial.
 
 - addition: 18 weight units
